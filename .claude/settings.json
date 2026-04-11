@@ -1,0 +1,50 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch",
+      "Bash(*)",
+      "Agent",
+      "TodoWrite",
+      "Monitor",
+      "TaskOutput",
+      "TaskStop",
+      "ToolSearch",
+      "Skill",
+      "mcp__reddit__browse_subreddit",
+      "mcp__reddit__read_post",
+      "mcp__reddit__search_subreddit",
+      "mcp__claude_ai_reddit-mcp__browse_subreddit",
+      "mcp__claude_ai_reddit-mcp__read_post",
+      "mcp__claude_ai_reddit-mcp__search_subreddit"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/auto-push.sh"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/auto-pull.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
