@@ -82,7 +82,6 @@ Read files in two tiers. **Always load** the core files. **Reference on demand**
 - `wiki/direct-response-copywriting.md` — belief chains, awareness evolution, story architecture
 - `wiki/positioning.md` — V4 mechanism details, positioning chain
 - `therabelt-unique-mechanism-v5.md` — the UMP (charring → AGEs → cellular damage accumulation → villain reveal) and UMS (catch-22 → clogged hose analogy → red light solution). **Read this before writing any mechanism content. It is the source of truth for the problem and solution chain.**
-- `raw/primitive-labs-valorrea-ad-analysis.md` — the Evolve Strat architecture reference
 
 #### Auto-search relevant knowledge:
 Before writing, read `wiki/index.md` and scan for pages relevant to the concept + avatar. Read the 2-3 most relevant wiki pages.
