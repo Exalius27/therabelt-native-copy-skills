@@ -93,7 +93,7 @@ The insider's self-indictment creates instant trust because she is sacrificing h
 - The proxy story still applies. The insider witnesses someone else's transformation.
 - The 2,000-word blind spot applies to the PRODUCT, not the health angle. Health content can surface earlier because the insider's credential earns it.
 - Product appears at 60-80% mark.
-- Target length: 5,000-7,000 words.
+- Target length: 5,000-10,000 words.
 
 ## Three-Act Structure
 
