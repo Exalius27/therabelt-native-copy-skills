@@ -180,7 +180,7 @@ Before outlining or writing anything, test the concept against all five of these
 2. **Does it support a proxy structure?** Can the narrator witness someone else's dog transform? If the concept requires the narrator to be the dog owner, it belongs in `/story-native`, not here.
 3. **Is there a clear identity wound?** Can you name the victim's ONE defining trait and show how the dog's decline destroys it? If the wound is vague ("she's sad"), stop.
 4. **Can you plant three named gifts?** Are there specific, concrete objects/rituals/behaviors that can be seeded, taken, and returned? If the concept only supports vague "they used to do things together," it's not specific enough.
-5. **Does the concept support 4,500+ words without padding?** The length is a feature, not a target. If the concept runs out of story at 3,000 words, it belongs in a shorter format.
+5. **Does the concept support 4,000+ words without padding?** The length is a feature, not a target. If the concept runs out of story at 3,000 words, it belongs in a shorter format.
 
 If the concept doesn't pass all five, stop. Work with the user to find a stronger concept before proceeding.
 
