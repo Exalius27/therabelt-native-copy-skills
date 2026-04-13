@@ -407,7 +407,7 @@ Short beats, heavy dialogue, physical numbers, sensory details. Third-grade read
 
 ### Checkpoint 12: Word Count as Feature (/10)
 
-Trojan Horse: 4,500-7,000 words. Insider Provocation: 5,000-7,000 words.
+Trojan Horse: 4,000-8,000 words. Insider Provocation: 5,000-10,000 words.
 
 **Scoring:**
 - 9-10: Word count is in range AND every word earns its place. No padding. No sections that exist only for length. The story NEEDS this many words.
