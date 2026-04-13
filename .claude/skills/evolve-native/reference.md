@@ -129,6 +129,7 @@ Before the mechanism, the lead must do three things in order:
 - **Bridge transitions between scenes.** Add brief bridge lines so pacing doesn't feel instant.
 - **Restoration must be partial, not complete.** "He's still a little slower on the stairs. That's fine. He's nine." Full reversal breaks belief. Better, not young.
 - **Add a private knowledge moment after the first sign of change.** "I didn't say anything to anyone. I didn't want to jinx it."
+- **Transformation must open with no change.** The first days after using TheraBelt, the narrator notices nothing. This is mandatory. It builds believability and creates the gap that the first real change closes. "The first few days, nothing. I wasn't surprised. I told myself to give it time." Never skip this beat.
 
 ### Urgency
 - **Story-driven urgency, not scarcity.** The urgency is the information itself. Every day the reader doesn't know this, the damage continues. Every bowl of kibble is another dose of AGEs. Every day the cells can't make energy is another day of cumulative damage.
