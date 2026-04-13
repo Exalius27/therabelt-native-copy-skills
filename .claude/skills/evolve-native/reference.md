@@ -119,6 +119,8 @@ Rules for narrator questions:
 - **Bridge transitions between scenes.** Add brief bridge lines so pacing doesn't feel instant.
 - **Restoration must be partial, not complete.** "He's still a little slower on the stairs. That's fine. He's nine." Full reversal breaks belief. Better, not young.
 - **Add a private knowledge moment after the first sign of change.** "I didn't say anything to anyone. I didn't want to jinx it."
+- **The first days show nothing.** The narrator uses the product and nothing changes. She keeps checking. Maybe she almost gives up. The doubt period is not just realistic — it's necessary. Without it, the transformation reads like a pitch. Include at least one moment of "still nothing" before the first sign appears.
+- **Transformation order matters.** Energy and mood return first — subtle, easy to dismiss. Then specific lost behaviors come back. Then external signs (coat, mobility). Then medical confirmation. Never lead with medical numbers. End with them. The emotional sequence is: personality back → symptoms clearing → strangers noticing → doctor confirms.
 
 ### Urgency
 - **Story-driven urgency, not scarcity.** The urgency is the information itself. Every day the reader doesn't know this, the damage continues. Every bowl of kibble is another dose of AGEs. Every day the cells can't make energy is another day of cumulative damage.
