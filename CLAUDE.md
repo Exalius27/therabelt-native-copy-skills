@@ -12,7 +12,7 @@ Two writers use this repo. Sessions from both automatically sync through GitHub.
 
 - `/story-native [concept] [avatar]` — identity-challenge architecture (Luhxe style). Caretaker identity thread. ~1,400-1,800 words.
 - `/evolve-native [concept] [avatar]` — villain architecture (V4 / Evolve Strat). Big Pet Food threat + catch-22. ~1,800-3,000 words.
-- `/amala-native [concept] [avatar] [entry mechanism: trojan or insider]` — proxy-witness architecture (Amala style). Narrator witnesses someone else's dog transform. Three-act structure, Seed/Take/Return of named gifts, 2,000-word blind spot, 13-checkpoint evaluator built in. ~4,500-7,000 words.
+- `/amala-native [concept] [avatar] [entry mechanism: trojan or insider]` — proxy-witness architecture (Amala style). Narrator witnesses someone else's dog transform. Three-act structure, Seed/Take/Return of named gifts, 2,000-word blind spot, 13-checkpoint evaluator built in. ~4,000-10,000 words.
 - `/chiefer [story or file path]` — evaluates a story-native ad against the 11-checkpoint framework. Scores, identifies failures, repair guidance. Does NOT rewrite.
 - `/story-creative-strategist [avatar] [direction]` — builds a concept for a story-native ad. Feeds into `/story-native`. Makes Reddit API calls.
 - `/evolve-creative-strategist [avatar] [direction]` — builds a concept for an evolve-native ad. Feeds into `/evolve-native`. Makes Reddit API calls.
