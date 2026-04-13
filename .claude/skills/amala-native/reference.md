@@ -492,7 +492,7 @@ The Amala-native mechanism is SIMPLER than evolve-native. No full AGEs/RAGE chai
 - [ ] PS handles 3-5 objections in story voice?
 - [ ] CTA is moral obligation ("I had to tell someone"), not competitive or direct?
 - [ ] Hidden mirror (thematic seed in opening) present?
-- [ ] Word count in range? (Trojan: 4,500-7,000; Insider: 5,000-7,000)
+- [ ] Word count in range? (Trojan: 4,000-8,000; Insider: 5,000-10,000)
 
 ### 13-Checkpoint Score
 - [ ] CP0 (Entry Mechanism): ___/50 → ___/10 (gate: 40+ required)
