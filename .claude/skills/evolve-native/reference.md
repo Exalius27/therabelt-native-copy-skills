@@ -108,6 +108,18 @@ Rules for narrator questions:
 - **No dramatic unrealistic narrator behavior.** Every narrator action must pass: "would a real woman actually do this?"
 - **No vague emotional lines.** If the narrator is crying, say WHY in plain words.
 - **Every detail must be earned narratively.** If a detail feels dropped in from nowhere, it IS from nowhere. Build the setup or cut it.
+- **Traumatic or significant events get specific time anchors.** "Last Tuesday" or "It happened on a Tuesday, I got home from work." Never "A Tuesday night" — that vagueness breaks immersion at the moment the reader most needs to feel present. The more traumatic the event, the more specific the time reference must be.
+- **Use the dog's name and vary how you refer to them throughout.** Alternate between the name, "my sweet boy," "my lab," "my nine-year-old," "my soul dog" — whatever fits the narrator's voice. Never refer to the dog generically for more than two sentences in a row.
+
+### Lead and Crisis Depth
+
+Before the mechanism, the lead must do three things in order:
+
+1. **Show the dog healthy and present before the crisis.** Specific behaviors that made this dog this dog — running in the yard, making it to the back door first, stealing socks. The reader must feel what was there before it was threatened.
+
+2. **Deepen the crisis.** The emergency visit is not just a plot point. Give it weight: the bill, the hours in the waiting room, the confusion of "he was fine this morning." These details are what make the reader feel the vulnerability — not just of this dog, but of her own.
+
+3. **Earn the symptom reveal before delivering it.** The credible character must ask the narrator "does your dog do X? What about Y? And Z?" — and the narrator answers yes, yes, yes — before the credible character names them as symptoms. This sequence is mandatory. The reader is confirming her own dog's behaviors before she learns what they mean. Never announce "those are symptoms" before the narrator (and reader) has confirmed each one.
 
 ### Transformation Pacing
 - Changes are gradual, not instant. The narrator should doubt it's working before she's sure.
