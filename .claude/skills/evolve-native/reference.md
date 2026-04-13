@@ -108,18 +108,8 @@ Rules for narrator questions:
 - **No dramatic unrealistic narrator behavior.** Every narrator action must pass: "would a real woman actually do this?"
 - **No vague emotional lines.** If the narrator is crying, say WHY in plain words.
 - **Every detail must be earned narratively.** If a detail feels dropped in from nowhere, it IS from nowhere. Build the setup or cut it.
-- **Traumatic or significant events get specific time anchors.** "Last Tuesday" or "It happened on a Tuesday, I got home from work." Never "A Tuesday night" — that vagueness breaks immersion at the moment the reader most needs to feel present. The more traumatic the event, the more specific the time reference must be.
-- **Use the dog's name and vary how you refer to them throughout.** Alternate between the name, "my sweet boy," "my lab," "my nine-year-old," "my soul dog" — whatever fits the narrator's voice. Never refer to the dog generically for more than two sentences in a row.
-
-### Lead and Crisis Depth
-
-Before the mechanism, the lead must do three things in order:
-
-1. **Show the dog healthy and present before the crisis.** Specific behaviors that made this dog this dog — running in the yard, making it to the back door first, stealing socks. The reader must feel what was there before it was threatened.
-
-2. **Deepen the crisis.** The emergency visit is not just a plot point. Give it weight: the bill, the hours in the waiting room, the confusion of "he was fine this morning." These details are what make the reader feel the vulnerability — not just of this dog, but of her own.
-
-3. **Earn the symptom reveal before delivering it.** The credible character must ask the narrator "does your dog do X? What about Y? And Z?" — and the narrator answers yes, yes, yes — before the credible character names them as symptoms. This sequence is mandatory. The reader is confirming her own dog's behaviors before she learns what they mean. Never announce "those are symptoms" before the narrator (and reader) has confirmed each one.
+- **Traumatic event time specificity.** When describing the night a crisis began, use a specific time anchor that proves the narrator was there. "Last Tuesday" or "It was a Tuesday. I'd just gotten home from work." Never "A Tuesday night" — that's generic enough to be invented. The specificity is what makes it real.
+- **Always name the dog and use the name throughout.** Name the dog at first mention. Mix references naturally throughout the story: the name, "my sweet boy," "my lab," "my nine-year-old," "my soul dog," "him." Never just "my dog" all the way through. The dog is a person in this story.
 
 ### Transformation Pacing
 - Changes are gradual, not instant. The narrator should doubt it's working before she's sure.
@@ -129,7 +119,6 @@ Before the mechanism, the lead must do three things in order:
 - **Bridge transitions between scenes.** Add brief bridge lines so pacing doesn't feel instant.
 - **Restoration must be partial, not complete.** "He's still a little slower on the stairs. That's fine. He's nine." Full reversal breaks belief. Better, not young.
 - **Add a private knowledge moment after the first sign of change.** "I didn't say anything to anyone. I didn't want to jinx it."
-- **Transformation must open with no change.** The first days after using TheraBelt, the narrator notices nothing. This is mandatory. It builds believability and creates the gap that the first real change closes. "The first few days, nothing. I wasn't surprised. I told myself to give it time." Never skip this beat.
 
 ### Urgency
 - **Story-driven urgency, not scarcity.** The urgency is the information itself. Every day the reader doesn't know this, the damage continues. Every bowl of kibble is another dose of AGEs. Every day the cells can't make energy is another day of cumulative damage.
@@ -143,11 +132,6 @@ Before the mechanism, the lead must do three things in order:
 The following patterns have been corrected multiple times across sessions. Each is a hard ban.
 
 - **No marketing language in narrator voice.** "Pitch," "invest," "journey," "game-changer," "hack" all banned. The narrator talks like a real person.
-- **Never use "relay character" chains to introduce the credible character.** "A friend told me about a vet she'd heard of who gave her a number" is two unnecessary degrees of separation. If the credible character is a vet, introduce them directly — through the original vet, a neighbor, a coworker. One bridge maximum, always someone who knew them personally.
-- **Never use "whatever you're doing, keep doing it" as vet validation.** It sounds like a marketing line. The vet should validate the dog directly: "He's doing really well for his age. His numbers look great." She comments on the dog, not on the narrator's behavior.
-- **Never frame kibble continuation as a confession.** "I still feed him kibble, I know how that sounds" reads as an apology that undermines everything before it. Instead frame it as the payoff: "Here's the best part — you don't have to switch foods. For the first time, the food he's already eating actually works." The catch-22 resolution is not a confession. It's liberation.
-- **"A couple days later" for ordering delivery. Never name the exact number of days.** "The box showed up four days later" is oddly specific and reads constructed. "A couple days later" is how real people talk.
-- **The last line must be gut-punching.** Any loving dog owner should feel compelled to act after reading it. The strongest closes create the fear of the version where the narrator never made the call — and let the reader project that onto her own dog. "He's nine. There's a version of this where I never made that call. I don't like thinking about that version for very long." Do not settle for a warm, restrained close when a gut-punch is available.
 - **No poetic dog interpretation.** Describe what the dog DOES. Never interpret what the dog is thinking, feeling, or "savoring." One simple action. No stacking poetic actions.
 - **No forced artificial beats.** No fake dramatic delays ("I don't ask what it's called. Not yet."). No fake scripted regret lines. Never force framework beats where they contradict the scene.
 - **Frame decline as time/ritual disappearing, not physical inability.** "Barely past the driveway" = arthritis. "Last week the whole walk fit between our front door and the mailbox" = time disappearing.
@@ -298,11 +282,9 @@ The reader should feel: if SHE does this for HER dog, she'll feel the same relie
 
 ### Point 9: Buying Experience Modeled
 
-The narrator orders. A couple days later it arrives. She puts it on the dog. Mental rehearsal for the reader.
+The narrator orders. The confirmation email arrives. She puts it on the dog. Mental rehearsal for the reader.
 
-One-time purchase. Frame against vet bills with specific numbers the narrator has actually paid — the emergency visit, the follow-ups, the cost of doing nothing. Never "I spend more than that every time I walk into the vet's office" — that's too clean, too rhetorical. Make her do real math: "The emergency visit alone was more than that." Specific is always stronger than vague.
-
-Never say "The box showed up X days later" with a specific number. Always "A couple days later."
+One-time purchase. Frame against vet bills. "I spend more than that every time I walk into the vet's office."
 
 ### Point 10: Story-Driven Urgency
 
