@@ -6,7 +6,7 @@ argument-hint: "[concept] [avatar] [entry mechanism: trojan or insider]"
 
 ## What This Skill Does
 
-Generates a long-form first-person narrative ad for TheraBelt (red light therapy belt for dogs, by Lucavel) using the Amala architecture. Output is a single narrative (~4,500-7,000 words) that reads like a genuine human interest story. The reader must not realize they are reading an ad until they are emotionally invested beyond the point of leaving.
+Generates a long-form first-person narrative ad for TheraBelt (red light therapy belt for dogs, by Lucavel) using the Amala architecture. Output is a single narrative (~4,000-10,000 words) that reads like a genuine human interest story. The reader must not realize they are reading an ad until they are emotionally invested beyond the point of leaving.
 
 **How this differs from `/story-native` and `/evolve-native`:**
 - Story-native uses identity-challenge architecture (Luhxe style). ~1,400-1,800 words. Caretaker identity thread. "Your move" or emotional callback close.
