@@ -124,10 +124,11 @@ Rules for narrator questions:
 
 ### Urgency
 - **Story-driven urgency, not scarcity.** The urgency is the information itself. Every day the reader doesn't know this, the damage continues. Every bowl of kibble is another dose of AGEs. Every day the cells can't make energy is another day of cumulative damage.
-- **One-time purchase framing.** Frame against vet bills ($1,200/day ER, $300-400/month NSAIDs, $11k cancer treatment). "I spend more than that every time I walk into the vet's office."
+- **One-time purchase framing.** Anchor the price against a real number the narrator has personally spent: the emergency vet bill, the supplements that didn't work, the vet visit copays. Make the reader do the math herself. Never use the line "I spend more than that every time I walk into the vet's office" verbatim — it's too clean and reads like a copywriter's pivot. Find the specific number from the narrator's own story.
 - **Urgency lives inside scenes, never in standalone paragraphs.** If urgency is disconnected from the story, it reads as a sales pitch.
 - **No batch scarcity, no "limited supply," no countdown timers.** The fear of the PROBLEM is the urgency. The cost of NOT acting is measured in damage, not dollars.
 - **The close should feel like a decision the reader makes herself.** "Now that you know, what do you do?" Not "buy before it runs out."
+- **The closing line must land on what's being lost, not what's been found.** The gut punch is about time — every dog owner feels the fear of losing their dog and the awareness that time is finite. The final line should name that fear honestly and reframe it: not "look how good things are now" but "I'm not going to spend the time I have left watching him fade when I don't have to." The reader should finish the story and feel compelled to act immediately.
 
 ### Patterns to Avoid
 
