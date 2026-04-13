@@ -298,9 +298,11 @@ The reader should feel: if SHE does this for HER dog, she'll feel the same relie
 
 ### Point 9: Buying Experience Modeled
 
-The narrator orders. The confirmation email arrives. She puts it on the dog. Mental rehearsal for the reader.
+The narrator orders. A couple days later it arrives. She puts it on the dog. Mental rehearsal for the reader.
 
-One-time purchase. Frame against vet bills. "I spend more than that every time I walk into the vet's office."
+One-time purchase. Frame against vet bills with specific numbers the narrator has actually paid — the emergency visit, the follow-ups, the cost of doing nothing. Never "I spend more than that every time I walk into the vet's office" — that's too clean, too rhetorical. Make her do real math: "The emergency visit alone was more than that." Specific is always stronger than vague.
+
+Never say "The box showed up X days later" with a specific number. Always "A couple days later."
 
 ### Point 10: Story-Driven Urgency
 
