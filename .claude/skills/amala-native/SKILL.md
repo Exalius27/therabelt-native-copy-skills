@@ -77,7 +77,7 @@ The dog enters naturally through the human story. The health angle surfaces even
 - Words 500-1,500: dog enters as a background character in the human story.
 - Words 1,500-2,500: the health thread begins to surface through the victim's situation.
 - Product appears at 60-80% mark.
-- Target length: 4,500-7,000 words.
+- Target length: 4,000-8,000 words.
 
 ### Mechanism B: Insider Provocation
 
