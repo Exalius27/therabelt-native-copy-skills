@@ -11,7 +11,7 @@ Read this file during execution when writing and reviewing the draft.
 - Benefits shown through the return of named gifts, never listed or claimed.
 - Narrator never directly tells the reader to buy. Narrator shares because withholding would be wrong.
 - **TheraBelt always stands alone.** Never frame TheraBelt as a complement to supplements or part of a stack.
-- The story is 4,500-7,000 words. The length is a structural tool. Every word earns its place.
+- The story is 4,000-10,000 words. The length is a structural tool. Every word earns its place.
 
 ### The Proxy Architecture
 
