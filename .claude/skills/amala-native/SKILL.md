@@ -229,7 +229,7 @@ Before drafting, verify every element has a home in the outline:
 10. **Circular close** — story ends where it began, transformed
 11. **PS architecture** — 3-5 paragraphs in story voice handling objections after the close
 12. **Sentence architecture** — short beats, heavy dialogue, physical numbers, sensory details. Third-grade reading level.
-13. **Word count as feature** — Trojan Horse: 4,500-7,000. Insider Provocation: 5,000-7,000. The length IS the disguise.
+13. **Word count as feature** — Trojan Horse: 4,000-8,000. Insider Provocation: 5,000-10,000. The length IS the disguise.
 
 ### 6. Write the Draft
 
