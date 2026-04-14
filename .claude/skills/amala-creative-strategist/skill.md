@@ -53,6 +53,7 @@ Read `wiki/index.md` and scan for pages relevant to the avatar + direction. Read
 #### Reference on demand:
 - `.claude/skills/amala-native/SKILL.md` — Amala architecture requirements
 - `wiki/positioning.md` — mechanism and product details
+- `wiki/swipe-file-amala.md` — **Amala swipe file analysis.** Transferable structural principles from 5 profitable Amala Health long-form ads. Entry mechanism patterns, one-trait character architecture, blind spot execution, concept seed quality bar. Read when generating or evaluating concept seeds. Only transfer STORYTELLING ARCHITECTURE — not product-specific content.
 - Other avatar files if cross-referencing is useful
 
 Confirm to the user which avatar and entry mechanism you are building for.
