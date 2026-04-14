@@ -44,7 +44,19 @@ Examples of the architecture (NOT to be reused, just to show the pattern):
 
 The wound must be SPECIFIC. "She loves her dog" is not a wound. "She is the woman who walks the creek trail at 6am every morning with her Golden, and the whole neighborhood sets their clock by her" is a wound, because when the dog can't walk the trail, the neighborhood notices, and her identity cracks.
 
-### 4. Seed / Take / Return
+### 4. The Healthy Dog (Silent Killer Architecture)
+
+The dog MUST appear completely healthy before the crisis. No visible decline. No mobility issues. No aging signs beyond a white muzzle. The dog walks, eats, wags, plays. The vet says he's fine. Bloodwork is normal. Nobody is worried.
+
+**Warning signs exist but look completely normal.** Grass eating, paw licking, a dog smell. These are NOT presented as concerning. NOT taken to the vet. NOT diagnosed as anything. They are just things dogs do. "Dogs eat grass." "He's a dog. Dogs smell." Nobody thinks twice. The owner may mention them in passing, casually, like weather. The narrator doesn't notice them. The reader doesn't flag them.
+
+**The crisis is SUDDEN.** A collapse. An emergency vet visit. Out of nowhere. "He was fine yesterday. He was eating. He was walking around three days ago. How does a dog go from fine to the emergency room floor in one night?" This shock is what drives the story forward. Not a gradual decline.
+
+**AFTER the crisis, the credible insider reframes everything.** She asks about the "normal" behaviors: Does he eat grass? Does he lick his paws? Does he smell? Then she reveals they were all the same thing — chronic inflammation hiding in plain sight for years. This retroactive reveal is the fear mechanism. The reader's dog probably does the same things. The reader just called them normal.
+
+**This is the kibble-as-silent-killer positioning:** the dog looks healthy while being destroyed from the inside. Bloodwork doesn't catch inflammation until organs start failing. The vet keeps saying everything is fine. Then one night the dog is on the emergency room floor and everyone says "how did this happen so fast?" It didn't happen fast. It happened over years. You just couldn't see it.
+
+### 5. Seed / Take / Return
 
 Plant specific NAMED objects, rituals, or behaviors in Act 1. Take them away in Act 2. Return them in Act 3.
 
