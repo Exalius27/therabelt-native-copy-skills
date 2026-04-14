@@ -208,13 +208,14 @@ Sketch the three-act outline. For each act, note:
 - The dog's role in the defining trait
 
 **Act 2:**
-- How each named gift disappears (specific scenes)
-- The defining trait cracking
-- The system villain moment (which professional fails, and how)
-- The validated suspicion beat
-- The elimination path (what's tried and why it fails)
+- Named gifts already gone (dog disengaged from rituals, but looks healthy)
+- The defining trait cracking because the dog disengaged, not because the dog looks sick
+- The sudden crisis (collapse, emergency vet, organ stress)
+- The system villain: vet system that said "normal" while organs were failing silently
 - The credible insider: who they are, how they enter, what credential they carry
-- The mechanism delivery (through dialogue)
+- The warning sign reveal: insider asks about normal dog behaviors, reframes as inflammation
+- The full kibble mechanism delivery (through dialogue)
+- The elimination path handled by the insider through dialogue (why food/supplements can't work)
 - Product introduction moment (when, how, through whom)
 
 **Act 3:**
