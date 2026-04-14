@@ -320,7 +320,7 @@ After the story, present:
 - **No marketing language in narrator voice.** "Pitch," "invest," "journey," "game-changer" all banned.
 - **No poetic dog interpretation.** Describe what the dog does. Never interpret what the dog thinks or feels.
 - **No CTA text after the PS.** The PS ends on the story. No brand name sitting alone.
-- **Frame decline as time/ritual disappearing, not physical inability.**
+- **Frame decline as disengagement, not physical inability.** The dog stops going out, stops the rituals. But the dog looks fine. No limping. No struggling. Just lost interest. The physical collapse comes later, suddenly.
 - **ZERO dialogue tags. ZERO stage directions.**
 - **No conspiracy language.** Facts only. "They don't want you to know" is banned.
 
