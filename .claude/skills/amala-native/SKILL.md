@@ -172,6 +172,7 @@ Read files in two tiers. **Always load** the core files. **Reference on demand**
 - `wiki/avatar-{N}.md` — only the avatar file the user specified
 - `wiki/direct-response-copywriting.md` — belief chains, story architecture
 - `wiki/positioning.md` — mechanism details, positioning chain
+- `outputs/amala-native-avatar1-lottery-ticket-trojan.md` — **The storytelling quality bar.** Read this before writing any Amala-native draft. This is what good Amala storytelling looks like. Learn from the STORYTELLING (human story quality, pacing, specificity, proxy structure). Do NOT replicate the POSITIONING (the dog in this copy ages gradually and the product is anti-aging — that is the old positioning). See `reference.md` Section 5 for what to learn vs. what to ignore.
 
 #### Auto-search relevant knowledge:
 Before writing, read `wiki/index.md` and scan for pages relevant to the concept + avatar. Read the 2-3 most relevant wiki pages.
