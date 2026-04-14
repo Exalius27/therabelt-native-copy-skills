@@ -520,3 +520,25 @@ The Amala-native mechanism is SIMPLER than evolve-native. No full AGEs/RAGE chai
 2. **Emotional peak** — is the emotional high point on the transformation (the named gifts returning), or on the human relationship? The peak must be on what the product made possible.
 3. **Proxy-to-self transfer** — does the reader move from empathizing with the victim to thinking about HER dog? The proxy structure must transfer by Act 3. If the reader only feels for the victim's dog, projection failed.
 4. **Moral urgency** — does the reader feel that NOT acting would be wrong? The narrator's moral obligation must transfer to the reader. "If I knew this and didn't tell you" energy.
+
+## Section 5: Reference Copy — The Storytelling Bar
+
+The file `outputs/amala-native-avatar1-lottery-ticket-trojan.md` is the gold standard for Amala-native storytelling quality. Read it before writing any new Amala-native draft. It is the bar.
+
+**If your concept can't sustain 3,000 words of pure human storytelling at this level, the concept is too weak.** Do not proceed. Go back to the concept and find a stronger human story.
+
+### What to learn from this copy (STORYTELLING):
+- **The human story is genuinely fascinating on its own.** 26 years of scratch-off lottery tickets in birthday cards. A $500 win. Driving to visit an aunt in a small town. Discovering her world. The reader would keep reading even if no dog ever appeared. THAT is the bar for every Amala-native concept.
+- **The dog is INVISIBLE for 3,000+ words.** The reader is deep into Aunt Connie's world, the garden, the small-town life, the relationship between niece and aunt before the dog becomes relevant. The dog enters as a background detail in the human story, not as the subject.
+- **Every scene is vivid and specific.** The scratch-off and the cold quarter. The handwriting on the envelope. The garden with dirt on her knees. The ribbons taped to the inside of the kitchen cabinet. Specificity is what makes the story feel real.
+- **The proxy structure is seamless.** The narrator visits, witnesses, and is moved. She never owns the problem. She tells the reader because she has to.
+- **The named gifts are concrete and memorable.** Planted early, taken visibly, returned through scenes. The reader tracks them without realizing it.
+- **The pacing earns every word.** 4,000-6,000 words and none of it feels padded. Every paragraph moves the story forward or deepens a character.
+
+### What NOT to replicate from this copy (POSITIONING):
+- **The dog in the lottery ticket ages gradually and shows visible decline.** This is the OLD positioning. It does NOT apply to any future copy. In all future copies, the dog is COMPLETELY HEALTHY until a sudden collapse. No slowing down. No mobility issues. No aging signs. The dog walks, plays, eats, wags. Then one night he's on the emergency room floor and everyone says "how did this happen?"
+- **The product is framed as anti-aging in the lottery ticket.** This is WRONG for all future copies. The positioning is kibble-as-silent-killer, not anti-aging. Never use "slows aging," "anti-aging," or "turns back the clock."
+- **The warning signs in the lottery ticket are presented as concerning.** In all future copies, warning signs (grass eating, paw licking, dog smell) are COMPLETELY NORMAL dog behaviors that nobody thinks twice about. The credible insider reframes them as inflammation AFTER the crisis. Not before.
+- **The elimination path in the lottery ticket shows the victim trying alternatives.** In future copies, the elimination path is handled BY the credible insider through dialogue, explaining WHY food and supplements can't work, not through the victim trying and failing.
+
+**The rule is simple:** Write a human story as good as the lottery ticket. Use the kibble-as-silent-killer positioning. Those two things are independent. The storytelling quality of the lottery ticket + the positioning rules in this skill = the target for every future Amala-native copy.
