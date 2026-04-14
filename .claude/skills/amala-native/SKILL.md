@@ -125,16 +125,16 @@ The reader must WANT to keep reading because the HUMAN story is compelling, not 
 
 ### Act 2: The Discovery (35-70% of word count)
 
-The identity wound opens. The named gifts disappear. The system fails. Research is earned through devastation. The product enters.
+The named gifts have already disappeared (the dog stopped going out, stopped the rituals — but the dog looked HEALTHY the whole time). The identity wound is already open from the dog's disengagement, not from visible sickness. Then the crisis hits. The system fails. The insider reveals what was hiding in plain sight. The product enters.
 
 Required elements:
-- The dog's decline shown through the disappearance of the named gifts (one by one, not all at once)
-- The defining trait cracking as the dog declines
-- The system villain: the veterinary/pet food establishment failing the victim. Well-meaning professionals treating numbers while the dog disappears. NOT evil doctors. Doctors who are doing their best inside a broken system.
-- Validated suspicion: the victim (or narrator) notices something the system dismissed. "They said his numbers look fine. But he's not fine. I can see it."
-- Earned research: triggered by devastation, not curiosity. The victim doesn't Google out of interest. She searches because watching her dog fade is unbearable.
-- Elimination path: every obvious solution tried and ruled out with mechanistic reasoning BEFORE the product appears. Better food tried. Supplements tried. Specialist consulted. Each one fails for a specific, logical reason.
-- The credible insider enters and introduces the mechanism. Through dialogue, not narration. The narrator (or victim) asks questions. The insider explains in plain language.
+- The named gifts already gone — the dog stopped going out, stopped the rituals. But the dog looks fine. Walks, eats, wags. The vet says normal. Nobody is alarmed.
+- The defining trait cracking because the dog disengaged, not because the dog is visibly sick.
+- The SUDDEN CRISIS: the dog collapses out of nowhere. Emergency vet. Organ stress (liver, kidneys). Total shock. "He was fine three days ago."
+- The system villain: the vet system that kept saying "everything is normal" while the dog was being destroyed from the inside. Not evil doctors. Doctors who genuinely couldn't see it because bloodwork doesn't catch chronic inflammation until organs fail.
+- The credible insider enters AFTER the crisis and reveals the warning signs. She asks about normal dog behaviors (grass eating, paw licking, dog smell) and reframes them as chronic inflammation signals hiding in plain sight. This is the retroactive reveal that makes the reader's stomach drop — her dog probably does the same things.
+- The insider delivers the FULL kibble mechanism through dialogue: AGEs from extreme-temp cooking → 122x exposure → coats mitochondria → cells can't make energy → organs fail silently → Mars owns food AND hospitals → vet training funded by kibble companies. The narrator asks questions. The insider explains in plain language.
+- The elimination path is handled BY the insider through dialogue, not through the victim trying things. The insider explains why better food and supplements can't work: the cell can't use what it's getting because the engine is clogged. You're sending fuel to a car that won't start.
 - Product introduction through the credible insider at the 60-80% mark. Casual. Not a pitch. The insider mentions it because it's the logical conclusion of the mechanism she just explained.
 
 ### Act 3: The Transformation (70-100% of word count)
