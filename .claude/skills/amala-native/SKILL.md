@@ -342,7 +342,7 @@ After the story, present:
 - **Emergency vet moment required.** Every Amala-native must include a sudden collapse and emergency vet visit. This makes the consequences of kibble REAL and LIVED, not abstract.
 - **P.S. format:** Use P.S., P.S.S., P.S.S.S., P.S.S.S.S., P.S.S.S.S.S. One objection per P.S.
 - **Money as numbers.** Always $2200, $1400, $80. Never "twenty-two hundred dollars" or "eighty dollars."
-- **Time as numbers.** Always 10h30, 7h00, 6h00 AM. Never "ten thirty" or "seven in the morning."
+- **Time as numbers.** Always 10:30 PM, 7 AM, 6 AM. Never "ten thirty" or "seven in the morning." Use standard format: number + AM/PM. Not the h00 format.
 - **No specific holidays or seasons.** Never anchor the story to Thanksgiving, Christmas, Easter, summer, winter, etc. The reader must be able to relate regardless of when she's reading. Use generic timing: "a weekend," "a few weeks later," "a month after that." Specific months (October, November) also limit relatability. Keep the timeline universal.
 - **Trojan Horse hooks must be VICIOUS, not just setups.** A human situation is not a hook. "We drove to college" is a setup. "My sister and I have one rule. Whoever is going through something, the other one drives" is a hook. The first line must have an open loop, tension, or a specific detail that makes it impossible to scroll past. Apply the 8 vicious hook rules from `wiki/vicious-hooks.md` to every Trojan Horse hook. The fact that the hook has nothing to do with dogs doesn't mean it can be soft.
 
