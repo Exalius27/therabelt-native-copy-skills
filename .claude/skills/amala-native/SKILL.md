@@ -270,10 +270,15 @@ Score the draft against all 13 checkpoints. Total must be 115+/130. No checkpoin
 - Is the proxy structure intact? Does the narrator ever own the problem?
 - Are all three named gifts seeded in Act 1, taken in Act 2, returned in Act 3?
 - Is the identity wound specific? One trait, shown in action?
-- Is the system villain institutional, not personal?
+- Does the dog appear COMPLETELY HEALTHY before the crisis? No visible decline. No mobility issues. No aging symptoms. Walking, eating, wagging.
+- Are the warning signs (grass, paws, smell) presented as TOTALLY NORMAL dog behavior? Not concerning. Not taken to the vet. Not diagnosed as anything. Just things dogs do.
+- Does the crisis come as a SUDDEN SHOCK? Collapse out of nowhere. Not a gradual worsening.
+- Does the credible insider reveal the warning signs AFTER the crisis? Does she reframe normal behaviors as inflammation signals?
+- Is the full kibble mechanism delivered? AGEs, 122x, mitochondria, Mars/VCA/Banfield, vet school funding?
+- Is the system villain about saying "normal" while organs were failing, not about failing to treat?
 - Is the product introduced through a credible insider at 60-80%?
 - Does the circular close mirror the opening?
-- Does the PS handle 3-5 objections in story voice?
+- Does the PS handle 3-5 objections in story voice? (P.S., P.S.S., P.S.S.S. format)
 - Is the CTA moral obligation, not competitive or direct?
 
 **Third: the craft checks (shared with other skills):**
