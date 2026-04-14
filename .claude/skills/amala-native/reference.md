@@ -216,6 +216,7 @@ Example energies (pattern only, never reuse):
 - "I spent eleven years making dog food. Then I got a dog."
 
 **Both types:**
+- **The hook must be VICIOUS.** A Trojan Horse situation is not automatically a hook. "We drove to college" is a situation. "My sister and I have one rule. Whoever is going through something, the other one drives" is a hook. Apply all 8 vicious hook rules from `wiki/vicious-hooks.md`: relevant in the first line, emotionally charged, open loop, stakes, specificity, doesn't read like an ad, caveman language, consequence first. The Trojan Horse disguise does not excuse a soft opening.
 - The hook must require zero cognitive steps to understand.
 - The hook must filter for the RIGHT reader (dog owners, specifically senior dog owners).
 - Nostalgic hooks are dead. Nobody stops scrolling for warmth.
