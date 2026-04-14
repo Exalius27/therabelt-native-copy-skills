@@ -16,6 +16,7 @@ Two writers use this repo. Sessions from both automatically sync through GitHub.
 - `/chiefer [story or file path]` — evaluates a story-native ad against the 11-checkpoint framework. Scores, identifies failures, repair guidance. Does NOT rewrite.
 - `/story-creative-strategist [avatar] [direction]` — builds a concept for a story-native ad. Feeds into `/story-native`. Makes Reddit API calls.
 - `/evolve-creative-strategist [avatar] [direction]` — builds a concept for an evolve-native ad. Feeds into `/evolve-native`. Makes Reddit API calls.
+- `/amala-creative-strategist [avatar] [entry mechanism] [direction]` — builds a Trojan Horse human story concept for an Amala-native ad. Generates 8-10 concept seeds or sharpens a direction. Feeds into `/amala-native`.
 
 ## Auto-Sync Loop
 
