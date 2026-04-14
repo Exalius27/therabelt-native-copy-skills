@@ -335,7 +335,14 @@ After the story, present:
 - **The PS is a second sales letter in story voice.** It handles objections. It's still the narrator talking. It never breaks character. 3-5 short paragraphs after the close.
 - **Moral obligation CTA only.** Never "Your move." Never "If you have a senior dog..." Never competitive energy. The narrator shares because withholding would be wrong.
 - **No identity-challenge architecture.** No "what kind of owner" line. No recognition moments. No caretaker identity thread. No invisible effort threading. These belong in `/story-native`.
-- **No catch-22 architecture.** No AGEs/RAGE chain delivered as the primary conversion engine. No "everything you try runs into the same wall." That belongs in `/evolve-native`. The mechanism in Amala-native is delivered more simply through the credible insider, focused on what the light does to cells, not on what kibble does to them.
+- **Full kibble villain mechanism required.** The credible insider delivers the complete chain: AGEs from extreme-temp cooking → 122x exposure → coats mitochondria → cells can't make energy → organs fail silently → Mars owns food AND hospitals → vet training funded by kibble companies. The fear does the selling. Never claim TheraBelt prevents or cures anything. Explain the mechanism. Reader connects the dots.
+- **Dog must appear completely healthy before the crisis.** No visible decline. No mobility issues. No aging symptoms beyond a white muzzle. The dog walks, eats, wags. The vet says fine. Bloodwork says fine. The collapse comes out of nowhere.
+- **Warning signs are NORMAL dog behaviors.** Grass eating, paw licking, dog smell are NOT alarming, NOT taken to the vet, NOT diagnosed as anything. They are just things dogs do. The credible insider reframes them as inflammation AFTER the crisis. Never present them as unusual before the crisis.
+- **No anti-aging positioning.** No "slows aging," "anti-aging device," "turns back the clock." The positioning is kibble-as-silent-killer, not anti-aging.
+- **Emergency vet moment required.** Every Amala-native must include a sudden collapse and emergency vet visit. This makes the consequences of kibble REAL and LIVED, not abstract.
+- **P.S. format:** Use P.S., P.S.S., P.S.S.S., P.S.S.S.S., P.S.S.S.S.S. One objection per P.S.
+- **Money as numbers.** Always $2200, $1400, $80. Never "twenty-two hundred dollars" or "eighty dollars."
+- **Time as numbers.** Always 10h30, 7h00, 6h00 AM. Never "ten thirty" or "seven in the morning."
 
 ## Notes
 
