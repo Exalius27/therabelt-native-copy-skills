@@ -258,6 +258,8 @@ Append to `wiki/log.md`: `- [QUERY] Amala creative strategist — concept accept
 - **The dog connection must be organic.** If you have to contort the story to get to a dog, the concept doesn't work for Amala. Find a different human situation that leads to a dog owner naturally.
 - **No "woman has a dog and also has a human problem" concepts.** The human problem IS the concept. The dog comes later. If the concept starts with a dog owner, it's not a Trojan Horse.
 - **No nostalgia, no warmth, no "day in the life" as the concept.** Nostalgia doesn't stop the scroll. Warmth doesn't stop the scroll. A SITUATION stops the scroll. Something happening. Forward motion. A question the reader needs answered.
+- **No specific holidays or seasons in concepts.** Never build a concept around Thanksgiving, Christmas, Easter, summer vacation, etc. The reader must relate regardless of when she's reading. Use generic timing: "a weekend visit," "a few weeks later." Seasonal anchoring kills year-round relatability.
+- **The concept must support a VICIOUS hook, not just a situation.** A situation is not a hook. "A woman drops her daughter at college" is a situation. "My sister and I have one rule. Whoever is going through something, the other one drives" is a hook. When evaluating concept seeds, ask: can this concept produce a first line with an open loop, tension, specificity, and emotional charge? If the concept only supports warm/nostalgic openings, it will fail the scroll test. Apply `wiki/vicious-hooks.md` principles.
 - Do not search for TheraBelt, Lucavel, or red light therapy on Reddit.
 - Maximum 2 subreddit calls if researching.
 
