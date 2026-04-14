@@ -234,9 +234,9 @@ Before drafting, verify every element has a home in the outline:
 2. **Hidden mirror** — a thematic seed in the opening that gains meaning by the end. The reader won't notice it on first read. On reflection, it was there all along.
 3. **Witness structure** — narrator observes, never owns the problem
 4. **Identity wound** — one defining trait systematically destroyed
-5. **System villain** — institution fails, not an individual. Well-meaning professionals inside a broken system.
-6. **Earned research** — triggered by devastation, not curiosity
-7. **Elimination path** — last logical option standing. Every alternative tried and ruled out with mechanistic reasoning.
+5. **System villain** — the vet system that kept saying "normal" while the dog was being destroyed from the inside. Not evil doctors. Doctors who couldn't see it because bloodwork doesn't catch chronic inflammation until organs fail.
+6. **Sudden crisis** — the dog collapses out of nowhere. Emergency vet. Organ stress. Total shock. The dog was fine yesterday. This replaces gradual decline.
+7. **Retroactive warning sign reveal** — the credible insider asks about normal dog behaviors (grass eating, paw licking, dog smell) AFTER the crisis and reframes them as chronic inflammation signals. The elimination path is handled by the insider through dialogue (why food/supplements can't work), not through the victim trying things.
 8. **Product introduction** — through trusted chain (credible insider), at 60-80% mark, feels like a recommendation not a pitch
 9. **Transformation mirror** — return of the three named gifts, one by one, through scenes
 10. **Circular close** — story ends where it began, transformed
