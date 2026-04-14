@@ -182,6 +182,7 @@ Before writing, read `wiki/index.md` and scan for pages relevant to the concept 
 - `wiki/story-native-format.md` — structural rules that still apply
 - `wiki/copy-structure.md` — lead/product buildup structure
 - `wiki/luhxe-ad-craft.md` — structural principles from reference ads
+- `wiki/swipe-file-amala.md` — **Amala swipe file analysis.** Transferable structural principles from 5 profitable Amala Health long-form ads (7,000-10,000+ words). Entry mechanism execution, blind spot pacing, one-trait character architecture, "numbers look fine" system villain, mechanism delivery through dialogue, Seed/Take/Return in practice, PS architecture, moral obligation CTA. Read when building outlines or reviewing drafts. Only transfer STORYTELLING ARCHITECTURE — not product-specific content (PrimeCell, statins, molecular hydrogen). TheraBelt has its own positioning chain.
 
 Confirm to the user which avatar, entry mechanism, and concept you are writing for.
 
