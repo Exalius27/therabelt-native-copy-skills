@@ -66,7 +66,7 @@ The reader remembers the named thing from Act 1. When it disappears in Act 2, sh
 
 Plant at minimum THREE named gifts in Act 1. All three must be taken in Act 2. All three must return in Act 3. The reader tracks them unconsciously.
 
-### 5. Moral Obligation Close
+### 6. Moral Obligation Close
 
 The CTA energy is NOT competitive ("Your move"), NOT information-urgency ("now that you know"), and NOT direct ("if you have a senior dog...").
 
