@@ -38,9 +38,9 @@ fi
 
 # Set model endpoint
 if [ "$MODEL" = "pro" ]; then
-  MODEL_ID="gemini-2.0-pro-exp-image-generation"
+  MODEL_ID="gemini-3-pro-image-preview"
 else
-  MODEL_ID="gemini-2.0-flash-exp-image-generation"
+  MODEL_ID="gemini-2.5-flash-image"
 fi
 
 API_URL="https://generativelanguage.googleapis.com/v1beta/models/${MODEL_ID}:generateContent?key=${GOOGLE_API_KEY}"
