@@ -61,7 +61,7 @@ brief = $ESCAPED_BRIEF
 request = {
     'contents': [{
         'parts': [{
-            'text': 'Generate a photo based on this creative brief. Follow every detail exactly. The image must look like a real candid photo taken with an iPhone by an everyday person — not AI-generated, not stock photography, not professionally shot. Natural imperfections are critical. Slightly off-center framing. Ambient lighting only. Real-world clutter in the background.\n\nCreative Brief:\n' + brief
+            'text': 'Generate a low-quality phone photo. NOT a professional photo. NOT cinematic. NOT dramatic. This must look like a real person took this with an older iPhone and posted it to Facebook.\n\nCRITICAL: Flat ugly lighting (overhead fluorescent or direct flash). JPEG compression visible. Auto white balance slightly wrong. Framing is imperfect and tilted. Background has random clutter. No color grading. No mood lighting. No dramatic shadows. No depth of field blur. No artistic composition. Everything mostly in focus because phone cameras have small sensors. People look like real average everyday people, not models or actors. Skin has real texture. This should look like a 2019 Facebook post, not a movie still.\n\nCreative Brief:\n' + brief
         }]
     }],
     'generationConfig': {
