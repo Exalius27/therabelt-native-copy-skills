@@ -17,6 +17,7 @@ Two writers use this repo. Sessions from both automatically sync through GitHub.
 - `/story-creative-strategist [avatar] [direction]` — builds a concept for a story-native ad. Feeds into `/story-native`. Makes Reddit API calls.
 - `/evolve-creative-strategist [avatar] [direction]` — builds a concept for an evolve-native ad. Feeds into `/evolve-native`. Makes Reddit API calls.
 - `/amala-creative-strategist [avatar] [entry mechanism] [direction]` — builds a Trojan Horse human story concept for an Amala-native ad. Generates 8-10 concept seeds or sharpens a direction. Feeds into `/amala-native`.
+- `/native-visuals [file path to finished copy]` — reads a finished ad copy, extracts 10 key visual scenes, and generates candid iPhone-style "found photos" using Gemini (Nano Banana 2). Images saved to `outputs/visuals/`.
 
 ## Auto-Sync Loop
 
