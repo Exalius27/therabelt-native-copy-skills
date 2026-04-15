@@ -7,7 +7,7 @@
 #   prompt_json_file — path to a JSON file containing the creative brief
 #   model            — optional: "flash" (default) or "pro"
 #
-# Reads GOOGLE_API_KEY from .env in the skill folder or project root.
+# Reads GOOGLE_API_KEY_1, _2, _3 from .env. Rotates through keys on quota errors.
 
 set -e
 
@@ -15,15 +15,23 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 SKILL_DIR="$(dirname "$SCRIPT_DIR")"
 PROJECT_ROOT="$(cd "$SKILL_DIR/../../.." && pwd)"
 
-# Load API key — check skill .env first, then project root .env
+# Load API keys — check skill .env first, then project root .env
 if [ -f "$SKILL_DIR/.env" ]; then
   source "$SKILL_DIR/.env"
 elif [ -f "$PROJECT_ROOT/.env" ]; then
   source "$PROJECT_ROOT/.env"
 fi
 
-if [ -z "$GOOGLE_API_KEY" ]; then
-  echo "ERROR: GOOGLE_API_KEY not set. Add it to .env"
+# Collect all available keys
+KEYS=()
+[ -n "$GOOGLE_API_KEY_1" ] && KEYS+=("$GOOGLE_API_KEY_1")
+[ -n "$GOOGLE_API_KEY_2" ] && KEYS+=("$GOOGLE_API_KEY_2")
+[ -n "$GOOGLE_API_KEY_3" ] && KEYS+=("$GOOGLE_API_KEY_3")
+# Fallback to single key if old format
+[ -n "$GOOGLE_API_KEY" ] && [ ${#KEYS[@]} -eq 0 ] && KEYS+=("$GOOGLE_API_KEY")
+
+if [ ${#KEYS[@]} -eq 0 ]; then
+  echo "ERROR: No API keys set. Add GOOGLE_API_KEY_1 (and optionally _2, _3) to .env"
   exit 1
 fi
 
@@ -43,12 +51,7 @@ else
   MODEL_ID="gemini-2.5-flash-image"
 fi
 
-API_URL="https://generativelanguage.googleapis.com/v1beta/models/${MODEL_ID}:generateContent?key=${GOOGLE_API_KEY}"
-
-# Read the creative brief JSON
-BRIEF=$(cat "$PROMPT_JSON_FILE")
-
-# Build the generation request — escape the brief for JSON embedding
+# Build the generation request
 ESCAPED_BRIEF=$(python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))" < "$PROMPT_JSON_FILE")
 
 REQUEST_FILE=$(mktemp)
@@ -73,16 +76,40 @@ with open('$REQUEST_FILE', 'w') as f:
 # Create output directory
 mkdir -p "$(dirname "$OUTPUT_PATH")"
 
-# Make the API call
+# Try each key until one works
 RESPONSE_FILE=$(mktemp)
+SUCCESS=false
 
-curl -s -X POST "$API_URL" \
-  -H "Content-Type: application/json" \
-  -d @"$REQUEST_FILE" \
-  -o "$RESPONSE_FILE"
+for i in "${!KEYS[@]}"; do
+  KEY="${KEYS[$i]}"
+  KEY_NUM=$((i + 1))
+  API_URL="https://generativelanguage.googleapis.com/v1beta/models/${MODEL_ID}:generateContent?key=${KEY}"
 
-# Extract the base64 image data from the response
-python3 -c "
+  curl -s -X POST "$API_URL" \
+    -H "Content-Type: application/json" \
+    -d @"$REQUEST_FILE" \
+    -o "$RESPONSE_FILE"
+
+  # Check if it's a quota error
+  QUOTA_ERROR=$(python3 -c "
+import json
+with open('$RESPONSE_FILE', 'r') as f:
+    resp = json.load(f)
+err = resp.get('error', {})
+if err.get('code') in [429, 400] and 'quota' in err.get('message', '').lower():
+    print('quota')
+elif err.get('code'):
+    print('error')
+else:
+    print('ok')
+" 2>/dev/null || echo "error")
+
+  if [ "$QUOTA_ERROR" = "quota" ]; then
+    echo "Key $KEY_NUM hit quota limit, trying next key..." >&2
+    continue
+  elif [ "$QUOTA_ERROR" = "ok" ]; then
+    # Try to extract image
+    python3 -c "
 import json, sys, base64
 with open('$RESPONSE_FILE', 'r') as f:
     resp = json.load(f)
@@ -106,7 +133,24 @@ for part in parts:
     if 'text' in part:
         print(f'Model said: {part[\"text\"]}', file=sys.stderr)
 sys.exit(1)
-"
+" && SUCCESS=true && break
+  else
+    # Non-quota error — print and try next key
+    python3 -c "
+import json
+with open('$RESPONSE_FILE', 'r') as f:
+    resp = json.load(f)
+err = resp.get('error', {})
+print(f'Key $KEY_NUM error: {err.get(\"message\", \"unknown\")}')
+" >&2
+    continue
+  fi
+done
 
 # Clean up temp files
 rm -f "$RESPONSE_FILE" "$REQUEST_FILE"
+
+if [ "$SUCCESS" = false ]; then
+  echo "ERROR: All API keys exhausted or failed." >&2
+  exit 1
+fi
