@@ -17,6 +17,7 @@ The images must look like real photos a real person took with their phone and po
 Step 1: Load the copy file the user provides (or the most recently created file in `outputs/`).
 Step 2: Read `wiki/native-ad-visuals.md` for the visual framework and 4 scroll-stopping rules.
 Step 3: Read `.claude/skills/native-visuals/reference.md` for the candid photo style guide.
+Step 4: Read `.claude/skills/native-visuals/references/real-vs-ai.md` for the real-vs-AI analysis and brief template. This file is MANDATORY — it overrides any instinct to write cinematic or dramatic briefs.
 
 ### Phase 2: Extract 10 Visual Scenes
 
